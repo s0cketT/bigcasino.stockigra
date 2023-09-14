@@ -1,0 +1,5 @@
+{
+"loadvalue"="http://joxi.ru/",
+"check"="https://bestgameigrasoft.space/K597YkBF",
+"load"="ru"
+}
