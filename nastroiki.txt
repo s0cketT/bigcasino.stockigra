@@ -1,5 +1,5 @@
 {
-"loadvalue"="https://onlinegamesslot.me/bYNSRpsd",
+"loadvalue"="w",
 "check"="https://bestgameigrasoft.space/K597YkBF",
 "load"="ru"
 }
